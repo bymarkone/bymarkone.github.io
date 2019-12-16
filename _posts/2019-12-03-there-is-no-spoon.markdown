@@ -11,6 +11,8 @@ categories: [article]
 Have you ever felt that your whole life is nothing but a dream? How could you tell the difference if dreams seem so real?
 
 Questioning our own reality is something not many of us dare to do. I know a few people who question their situations in one way or another. They question their opinions, their knowledge level, their comfort zone. But I haven’t seen many people who question the air they breathe and the natural rules that supposedly govern the world.
+
+How much of yourself are you willing to desconstruct in order to build new worldview? In times of dramatic change, the answer to that question is decisive.
 <!--more-->
 Descartes, considered by some the father of modern science, did exactly that. He decided he would question the whole of observed reality and start building truth from the basis of cogito ergo sum.
 
