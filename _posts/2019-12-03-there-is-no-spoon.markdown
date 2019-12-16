@@ -1,15 +1,17 @@
 ---
 layout: post
 title:  "There Is No Spoon"
+excerpt_separator: <!--more-->
 subtitle: "Philosophical background of The Matrix — causality, reality, control, and knowledge…"
 date:   2019-12-02 13:55:36 +0100
-categories: philosophy matrix
+tags: [philosophy, matrix]
+categories: [article]
 ---
 
 Have you ever felt that your whole life is nothing but a dream? How could you tell the difference if dreams seem so real?
 
 Questioning our own reality is something not many of us dare to do. I know a few people who question their situations in one way or another. They question their opinions, their knowledge level, their comfort zone. But I haven’t seen many people who question the air they breathe and the natural rules that supposedly govern the world.
-
+<!--more-->
 Descartes, considered by some the father of modern science, did exactly that. He decided he would question the whole of observed reality and start building truth from the basis of cogito ergo sum.
 
 In this article and the following ones, we will use The Matrix series as a gateway into philosophical ideas that are full of meaning in our present age and, in this author’s opinion, full of practical implications in our daily lives.

@@ -1,0 +1,2 @@
+- add text snippets to initial page
+- add things I am doing now in about

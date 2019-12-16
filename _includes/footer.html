@@ -8,16 +8,18 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
+          <li class="rss-subscribe">(subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>)</li>
+          <p/>
           <li class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
-            </li>
-            {%- if site.email -%}
+          </li>
+          {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          {%- endif -%}
         </ul>
         {%- include social.html -%}
       </div>

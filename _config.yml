@@ -30,6 +30,7 @@ url: "bymarkone.github.io" # the base hostname & protocol for your site, e.g. ht
 twitter_username: bymarkone
 github_username:  bymarkone
 linkedin_username: bymarkone
+show_excerpts: true
 
 # Build settings
 theme: minima
