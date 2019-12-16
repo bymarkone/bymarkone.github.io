@@ -16,3 +16,8 @@ As a **socially aware** citizen of the world, I am now dedicating time to unders
 As an **adventurer**, I go to Alaska, to the [almost] untouched wilderness, every year. 
 As a **dreamer**, I can only hope I live long enough to jump on a spaceship and explore the next galaxy men will visit.
 
+<br/>
+
+### These are the things I am doing:
+
+![Things I am doing](/assets/doing_now.jpg)
