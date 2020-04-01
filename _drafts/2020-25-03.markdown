@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "[Weekly] Globots are coming, education is the biggest gap, AI and ML courses, MIT MicroEconomics classes wrapup"
+excerpt_separator: <!--more-->
+date:   2020-01-09 13:55:36 +0100
+tags: [technology]
+categories: [weekly]
+---
+
+## Globots are coming
+I've recently watched the video [The Globotics Upheaval: Globalization, Robotics, and the Future of Work](), which caused me to have one of those "ah-ha" moments: The type of automation what we are seeing happening now in the world in different in nature, speed, and escope compared to the automation we've been seeing in the last decades. In nature, because the automation that we are seeing now in not the automation in industry, but in the third sector. In speed, because this is coming with unprecedent idea. And in scope because this is global.
+
+Lets first reflect on nature: service jobs, office workers
+
+Second, the rhythm of speed. The reasons (Second Age of the Machines), Amara's Law
+
+Third, global. Global workforce, remote work
+
+
+## Education is the biggest gap
+I've just finished a business plan for a product in the education space. I want to talk a little bit about the context and motivation for the topic. Recently I was having classes and discussing with people about the speed of change in the world today.
+- New capabilities
+- Speed of change and the learning curve vs. change rate
+- Challenges of current education system
+
+## AI and ML courses
+There were quite a few people now that came to me interested for which "Data" courses I've did. Reality is I did quite a few now, with different emphasys. Looking back, I would recommend the followinf order:
+1. Udacity Artificial Intelligence
+2. Udacity Deep Learning
+3. Coursera Stanford Machine Learning
+4. Udacity Reinforcement Learning
+5. Stanford CS231n
+6. MIT Data Science Micromasters
+
+In addition to that, I would recomment a few books and papers (which is becoming more and more my reality when talking about the field).
+
+## Moments that blew my mind while doing the MIT Course
+1. There is no economic policy that favors all groups
+2. Governments and central banks are not doing a good job (in general)
+3. The challenge that educations brings
+4. Productivity improves economy
+5. Populism is predictable
+
+Some other smaller insights:
+- 
+
+
+
+
+

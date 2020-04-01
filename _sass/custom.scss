@@ -12,3 +12,44 @@
     font-size: 0.9em;
   }
 }
+
+.share-bar {
+  font-size: 30px;
+}
+
+.share-button {
+  margin: 0px;
+  padding: 3px 3px 3px 3px;
+  &:hover {
+      opacity: 1;
+      color: #ffffff;
+  }
+}
+
+.fa-twitter {
+  color: #55acee;
+  &:hover {
+    background-color: #55acee;
+  }
+}
+
+.fa-reddit-alien {
+  color: #ff4500;
+  &:hover {
+    background-color: #ff4500;
+  }
+}
+
+.fa-linkedin {
+  color: #007bb5;
+  &:hover {
+    background-color: #007bb5;
+  }
+}
+
+.fa-envelope {
+  color: #444444;
+  &:hover {
+    background-color: #444444;
+  }
+}

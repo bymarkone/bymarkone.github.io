@@ -18,6 +18,3 @@ As a **dreamer**, I can only hope I live long enough to jump on a spaceship and 
 
 <br/>
 
-### These are the things I am doing:
-
-![Things I am doing](/assets/doingnow.jpg)
