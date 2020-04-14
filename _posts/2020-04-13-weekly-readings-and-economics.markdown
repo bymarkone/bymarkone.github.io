@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[weekly] What to read these days, and a summary of a great course... on Economics"
+title:  "[Weekly] A list of publications to read during the crisis"
 excerpt_separator: <!--more-->
 subtitle:
 date:   2020-04-13 13:55:36 +0100

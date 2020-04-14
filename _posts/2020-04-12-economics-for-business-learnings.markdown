@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Economics for Business - Learnings from the course"
+title: "Learnings from MIT Sloan's course Economics for Business"
 excerpt_separator: <!--more-->
 subtitle: 
 author: marcos silveira
