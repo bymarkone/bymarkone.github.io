@@ -3,6 +3,7 @@ layout: post
 title:  "There Is No Spoon"
 excerpt_separator: <!--more-->
 subtitle: "Philosophical background of The Matrix — causality, reality, control, and knowledge…"
+author: Marcos Silveira
 date:   2019-12-02 13:55:36 +0100
 tags: [philosophy, matrix]
 categories: [article]

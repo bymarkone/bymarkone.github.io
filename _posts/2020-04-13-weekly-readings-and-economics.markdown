@@ -3,6 +3,7 @@ layout: post
 title:  "[Weekly] A list of publications to read during the crisis"
 excerpt_separator: <!--more-->
 subtitle:
+author: Marcos Silveira
 date:   2020-04-13 13:55:36 +0100
 tags: [covid-19, McKinsey, digital, globalization, economics, MIT, MIT Sloan]
 categories: [article]

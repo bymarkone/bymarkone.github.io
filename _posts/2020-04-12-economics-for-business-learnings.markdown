@@ -3,7 +3,7 @@ layout: post
 title: "Learnings from MIT Sloan's course Economics for Business"
 excerpt_separator: <!--more-->
 subtitle: 
-author: marcos silveira
+author: Marcos Silveira
 date:   2020-04-12 13:55:36 +0100
 tags: [economics, business, education]
 categories: [article]
