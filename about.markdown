@@ -6,15 +6,15 @@ permalink: /about/
 
 ![That is me](/assets/me.png){:style="width: 250px; margin-right: 20px; float: left;"}
 
-I am an explorer; and that manifests in many areas.  
+I am a developer. These days I've been working as a Tech Principal at ThoughtWorks, where I still get the opportunity to code sometimes, but mostly I am talking about tech strategy and how to execute it. I have a lot of stories to tell about legacy evolution, microservices implementation, evolutionary architecture, software engineering culture and agility, products, devops, and the role of technology in digital transformation. 
 
-As an **entrepreneur**, I work with AI, cryptocurrencies, and blockchain, on the industries of professional services, finance, and consumer services.
-As a **developer**, my capabilities are stronger when starting projects in which uncertainty and risk are higher, when there are no known or easy solutions. 
-As an **executive consultant**, I look into technology with a business lens, and apply pragmatic approaches to solve clients' problems.
-As a **student**, I am a mathematician now exploring topics in physics, finance, philosophy, and computer science.
-As a **socially aware** citizen of the world, I am now dedicating time to understand world's economies and economics and to create awareness on the challenges to come.
-As an **adventurer**, I go to Alaska, to the [almost] untouched wilderness, every year. 
-As a **dreamer**, I can only hope I live long enough to jump on a spaceship and explore the next galaxy men will visit.
+During the past twenty years I've wrote code and/or advised on the following domains: Healthcare, Government, Supply Chain, Logistics, Automotive, Airlines, Financial, Banking, and EDI. I've worked for big and small companies in Latin and North America, and Europe. I am/was part of the adivsors board of a couple of these companies.
+
+I have a keen interest in Math, I spent a lot of my free time reading Cambridge books and studying for my second Bachelors, in Pure Mathematics. Around Math I love Finance, Economics, Physics and Chemistry (also Neuroscience and Biochemestry, but these are not close to math). I try to complete as many programs as I can from eDX (specially MIT ones) on these topics. 
+
+I do research on AI and the role of language to advance the AI field. 
+
+I am also the author of tLan, a terminal application with a DSL that helps busy, purposeful people to manage their time. 
 
 <br/>
 
