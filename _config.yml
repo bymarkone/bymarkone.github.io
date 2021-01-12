@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Meditations on Math, AI, Economics, and the Future of the World
+title: Meditations on Math and AI
 author: Marcos Silveira
 email: bymarkone@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
